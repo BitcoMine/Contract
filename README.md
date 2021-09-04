@@ -7,7 +7,7 @@
 We used shortcuts in our contract to reduce the overall size of the contract. All shortcuts and their usage are listed and descriped and explained in the following Table.
 
 | **Shortcut** | **Description** |
-| --- | --- |
+| :---: | :---: |
 | `_isExlFFees` | _isExcludedFromFees |
 | `AMMPairs` | automatedMarketMakerPairs |
 | `BBTracking` | BMEBTCBTracking |
