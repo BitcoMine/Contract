@@ -10,4 +10,34 @@ We used shortcuts in our contract to reduce the overall size of the contract. Al
 | --- | --- |
 | `_isExlFFees` | _isExcludedFromFees |
 | `AMMPairs` | automatedMarketMakerPairs |
+| `BBTracking` | BMEBTCBTracking |
+| `calBMEd` | CalculetBMEDividends |
+| `ckBMEd` | checkBMEDividends |
+| `CTBalance` | contractTokenBalance |
+| `dBTCTracker` | dividendBTCBTracker |
+| `dTokenBof` | dividendTokenBalanceOf |
+| `ExlFromD` | excludeFromDividends |
+| `ExlFromF` | excludeFromFees |
+| `getlastProcidx` | getLastProcessedIndex |
+| `getTISBTC` | GetCurrentSupplyBTC |
+| `getTISBTC` | GetCurrentSupplyBME |
+| `getTotaldd` | getTotalDividendsDistributed |
+| `GFProcess` | gasForProcessing |
+| `Lwallet` | LiquidityWallet |
+| `MSTAmt` | maxSellTransactionAmount |
+| `ProcessDT` | processDividendTracker |
+| `RperToken` | RewadPerTokens |
+| `SendBMEd` | SendBMEDividends |
+| `setAMMPairs` | setAutomatedMarketMakerPair |
+| `setMinTtoGetR` | setMinTokensToGetReward |
+| `setMSTxAmt` | setMaxSellTxAmount |
+| `setSTatAmt` | setSwapTokensAtAmt |
+| `STatAmt` | swapTokensAtAmount |
+| `SWandSendBTCd` | swapAndSendBTCBDividends |
+| `SwapTFBTCB` | swapTokensForBTCB |
+| `SwapTFETH` | swapTokensForEth |
+| `SWandSendBTCd` | swapAndSendBTCBDividends |
+| `STatAmt` | swapTokensAtAmount |
+| `WblDof` | withdrawableDividendOf |
+
 
