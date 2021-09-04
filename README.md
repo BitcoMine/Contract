@@ -20,7 +20,7 @@ We used shortcuts in our contract to reduce the overall size of the contract. Al
 | `ExlFromF` | excludeFromFees |
 | `getlastProcidx` | getLastProcessedIndex |
 | `getTISBTC` | GetCurrentSupplyBTC |
-| `getTISBTC` | GetCurrentSupplyBME |
+| `getTISBME` | GetCurrentSupplyBME |
 | `getTotaldd` | getTotalDividendsDistributed |
 | `GFProcess` | gasForProcessing |
 | `Lwallet` | LiquidityWallet |
