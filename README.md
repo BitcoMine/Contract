@@ -4,7 +4,7 @@ BitcoMine Token (BME) contract is a combination of multi rewarding mechanisms, a
 
 
 Shortcut usage.
-We used shortcuts in our contract to reduce the overall size of the contract. All shortcuts and their usage will be listed and explained in the following file ‘’shortcut.txt’’
+We used shortcuts in our contract to reduce the overall size of the contract. All shortcuts and their usage are listed and descriped and explained in the following Table.
 
 | Shortcut | Description |
 | --- | --- |
