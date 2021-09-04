@@ -42,5 +42,6 @@ We used shortcuts in our contract to reduce the overall size of the contract. Al
 | `WblDof` | withdrawableDividendOf |
 
 
-#### BitcoMine Media 
-[Telegram](https://t.me/BitcoMineToken).
+#### BitcoMine Media
+[Website](https://BitcoMineToken.com)
+[Telegram](https://t.me/BitcoMineToken)
