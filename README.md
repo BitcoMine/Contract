@@ -36,7 +36,7 @@ We used shortcuts in our contract to reduce the overall size of the contract. Al
 | `setSTatAmt` | setSwapTokensAtAmt |
 | `STatAmt` | swapTokensAtAmount |
 | `SWandSendBTCd` | swapAndSendBTCBDividends |
-| `SwapTFBTCB` | swapTokensForBTCB |
+| `SwapTFBTC` | swapTokensForBTC |
 | `SwapTFETH` | swapTokensForEth |
 | `SWandSendBTCd` | swapAndSendBTCBDividends |
 | `STatAmt` | swapTokensAtAmount |
